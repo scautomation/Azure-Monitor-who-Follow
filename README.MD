@@ -6,7 +6,7 @@ Ingite 2018 Microsoft announced Log Analytics, Application Insights would be bro
 
 # Who to Follow
 
-There is already an existing community around Azure Monitor, providing real world examples and technical information on the products and services under Azure Monitor
+There is already an existing community around Azure Monitor, providing real world examples and technical information on the products and services under Azure Monitor, including Log Analytics, Application Insights, and the Kusto Query Language that powers them and many more services.
 
 ## Microsoft Azure Monitor related twitter
 
@@ -29,6 +29,6 @@ There is already an existing community around Azure Monitor, providing real worl
 @Ciraltos  
 @marcelzehner   
 @msandbu  
-@pzerger 
+@pzerger  
 @mrtaoyang  
 @scautomation  
