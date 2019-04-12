@@ -38,4 +38,4 @@ There is already an existing community around Azure Monitor, providing real worl
 # Azure Management Book
 Several of the MVPs above have released a free ebook Insight Azure Management. The book covers Azure Monitor, Management & Governance. You can find it here https://gallery.technet.microsoft.com/Inside-the-Operations-2928e342 
 
-![Inside Azure Management](imagesInside_Azure_Management_Cover.png)
+![Inside Azure Management](images/Inside_Azure_Management_Cover.png)
