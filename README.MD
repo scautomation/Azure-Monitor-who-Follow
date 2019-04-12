@@ -14,7 +14,7 @@ There is already an existing community around Azure Monitor, providing real worl
 @mpauthor  
 @OlegAnaniev  
 @rahul_bagaria  
-@SergeyKanzhelev
+@SergeyKanzhelev   
 @keikomsft
 
 ## Community Members and Microsoft MVPs
@@ -28,7 +28,7 @@ There is already an existing community around Azure Monitor, providing real worl
 @stefanroth_net  
 @kgreeneit  
 @Ciraltos  
-@marcelzehner
+@marcelzehner  
 @msandbu  
 @pzerger  
 @mrtaoyang  
