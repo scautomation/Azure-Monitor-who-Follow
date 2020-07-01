@@ -37,6 +37,8 @@ There is already an existing community around Azure Monitor, providing real worl
 @mrtaoyang  
 @scautomation  
 @john_joyner  
+@jefutte
+
 
 
 # Azure Management Book
