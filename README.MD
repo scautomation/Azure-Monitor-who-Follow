@@ -15,11 +15,14 @@ There is already an existing community around Azure Monitor, providing real worl
 @OlegAnaniev  
 @rahul_bagaria  
 @SergeyKanzhelev   
-@keikomsft
+@be_shikha  
+@followKetan   
+@rahul_bagaria  
+@jkemnetz  
+@SlickGardner
 
 ## Community Members and Microsoft MVPs
 
-@cfullerMVP  
 @ehrnst  
 @StanZhelyazkov  
 @JamesvandenBerg  
@@ -33,6 +36,7 @@ There is already an existing community around Azure Monitor, providing real worl
 @pzerger  
 @mrtaoyang  
 @scautomation  
+@john_joyner  
 
 
 # Azure Management Book
