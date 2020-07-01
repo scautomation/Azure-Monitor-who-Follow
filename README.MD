@@ -2,7 +2,7 @@
 
 Ingite 2018 Microsoft announced Log Analytics, Application Insights would be brought under the Azure Monitor umbrella. See the below image from Microsoft on what Azure Monitor encompasses
 
-![azure monitor overview](images/overview.png)
+![azure monitor overview](images/azuremonitor.png)
 
 # Who to Follow
 
